@@ -1,9 +1,12 @@
-# How To Use Simple Paint
+# Simple Paint
+## This is a paint app without an ui, you have the whole white screen free for you to use, you choose your paint tools through the keyboard and mouse, making it very dynamic.
 
-Brush
-'left click' starts and stops brush.
-'a' or 'ArrowUp' makes brush bigger
-'s' or 'ArrowDown' makes brush smaller
+### How To Use Simple Paint
+
+**Brush**
+-**'left click'** starts and stops brush.
+-**'a'** or **'ArrowUp'** makes brush bigger
+-**'s'** or **'ArrowDown'** makes brush smaller
 
 
 Color Palete
