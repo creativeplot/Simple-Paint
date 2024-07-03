@@ -46,4 +46,3 @@ Welcome to my project fellas, this paint app does not have an ui, you only uses 
 
 
 Maybe in the future i will add more stuff to this project.
-In the meantime feel free to add your own functionalities to this code.
