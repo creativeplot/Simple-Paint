@@ -4,9 +4,9 @@
 ### How To Use Simple Paint
 
 **Brush**
--**'left click'** starts and stops brush.
--**'a'** or **'ArrowUp'** makes brush bigger
--**'s'** or **'ArrowDown'** makes brush smaller
+- **'left click'** starts and stops brush.
+- **'a'** or **'ArrowUp'** makes brush bigger
+- **'s'** or **'ArrowDown'** makes brush smaller
 
 
 Color Palete
