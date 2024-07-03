@@ -1,42 +1,43 @@
 # Simple Paint
 ## This is a paint app without an ui, you have the whole white screen free for you to use, you choose your paint tools through the keyboard and mouse, making it very dynamic.
 
-### How To Use Simple Paint
+### Features and Commands
 
 **Brush**
-- **'left click'** starts and stops brush.
-- **'a'** or **'ArrowUp'** makes brush bigger
-- **'s'** or **'ArrowDown'** makes brush smaller
+- **'Left Click'** starts and stops brush.
+- **'A'** or **'ArrowUp'** makes brush bigger
+- **'S'** or **'ArrowDown'** makes brush smaller
 
 
-Color Palete
-'spaceBar' activate and deactivate color palete
-'left click' selects the color that you want
+**Color Palete**
+- **'SpaceBar'** activate and deactivate color palete
+- **'Left Click'** selects the color that you want
+- you still can painting with the color palete on
 
 
-Eraser
-'g' selects eraser
+**Eraser**
+- **'G'** selects eraser
 with eraser selected 'left click' starts and stops eraser
-'a' or 'ArrowUp' makes eraser bigger
-'s' or 'ArrowDown' makes eraser smaller
-'g' again selects brush
+- **'A'** or **'ArrowUp'** makes eraser bigger
+- **'S'** or **'ArrowDown'** makes eraser smaller
+- **'G'** again selects brush
 
 
-Previous and Next Brush Sizes
-'a' or 'ArrowLeft' previous brush size
-'d' or 'ArrowRight' next brush size
+**Previous and Next Brush Sizes**
+- **'A'** or **'ArrowLeft'** previous brush size
+- **'D'** or **'ArrowRight'** next brush size
 
 
-Clean the page
-',' or 'del' will clean the page
+**Clean the page**
+- **','** or **'Del'** will clean the page
 
 
-Save Drawing
-'b' will save your drawing on console storage.
+**Save Drawing**
+- **'B'** will save your drawing on console storage.
 
 
-Delete Saved Drawing
-'t' will delete your saved drawing on console storage.
+**Delete Saved Drawing**
+- **'T'** will delete your saved drawing on console storage.
 
 
 
