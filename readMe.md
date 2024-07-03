@@ -16,8 +16,7 @@
 
 
 **Eraser**
-- **'G'** : selects eraser
-with eraser selected 'left click' starts and stops eraser
+- **'G'** : selects eraser with eraser selected **'Left Click'** starts and stops eraser
 - **'A'** or **'ArrowUp'** : makes eraser bigger
 - **'S'** or **'ArrowDown'** : makes eraser smaller
 - **'G'** : again selects brush
