@@ -4,40 +4,40 @@
 ### Features and Commands
 
 **Brush**
-- **'Left Click'** starts and stops brush.
-- **'A'** or **'ArrowUp'** makes brush bigger
-- **'S'** or **'ArrowDown'** makes brush smaller
+- **'Left Click'** : starts and stops brush.
+- **'A'** or **'ArrowUp'** : makes brush bigger
+- **'S'** or **'ArrowDown'** : makes brush smaller
 
 
 **Color Palete**
-- **'SpaceBar'** activate and deactivate color palete
-- **'Left Click'** selects the color that you want
+- **'SpaceBar'** : activate and deactivate color palete
+- **'Left Click'** : selects the color that you want
 - you still can painting with the color palete on
 
 
 **Eraser**
-- **'G'** selects eraser
+- **'G'** : selects eraser
 with eraser selected 'left click' starts and stops eraser
-- **'A'** or **'ArrowUp'** makes eraser bigger
-- **'S'** or **'ArrowDown'** makes eraser smaller
-- **'G'** again selects brush
+- **'A'** or **'ArrowUp'** : makes eraser bigger
+- **'S'** or **'ArrowDown'** : makes eraser smaller
+- **'G'** : again selects brush
 
 
 **Previous and Next Brush Sizes**
-- **'A'** or **'ArrowLeft'** previous brush size
-- **'D'** or **'ArrowRight'** next brush size
+- **'A'** or **'ArrowLeft'** : previous brush size
+- **'D'** or **'ArrowRight'** : next brush size
 
 
 **Clean the page**
-- **','** or **'Del'** will clean the page
+- **','** or **'Del'** : will clean the page
 
 
 **Save Drawing**
-- **'B'** will save your drawing on console storage.
+- **'B'** : will save your drawing in console storage.
 
 
 **Delete Saved Drawing**
-- **'T'** will delete your saved drawing on console storage.
+- **'T'** : will delete your saved drawing from the console storage.
 
 
 
