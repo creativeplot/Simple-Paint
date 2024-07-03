@@ -32,7 +32,7 @@
 
 
 **Save Drawing**
-- **'B'** : will save your drawing in console storage.
+- **'B'** : will save your drawing on the console storage.
 
 
 **Delete Saved Drawing**
